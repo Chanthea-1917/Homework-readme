@@ -67,9 +67,8 @@ It was popularised in the 1960s with the release of Letraset sheets contain.
 
 ## Feedback
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-
-- [`Cantact on facebook`](https://www.youtube.com/)
-- [`Subscibe on my chanel Real Bro Code on TikTok`](tiktok.com/@realbrocodeyt)
+- [`Cantact on `](https://www.youtube.com/)
+- [`Subscibe on my chanel Real Bro Code on TikTok`](https://www.speedtypingonline.com/typing-test)
 
 
 

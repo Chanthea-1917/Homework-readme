@@ -1,6 +1,6 @@
 # Schoolmanagement
-
-
+![RRRR](https://img.shields.io/badge/Madeby:-Chanthea-green
+)
 ## screenshot
 ### Homepage
 ![alt text](image-1.png)
@@ -67,8 +67,8 @@ It was popularised in the 1960s with the release of Letraset sheets contain.
 
 ## Feedback
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-- [`Cantact on `](https://www.youtube.com/)
-- [`Subscibe on my chanel Real Bro Code on TikTok`](https://www.speedtypingonline.com/typing-test)
+- [`Cantact on YouTube `](https://www.youtube.com/)
+- [`Go to typing Website`](https://www.speedtypingonline.com/typing-test)
 
 
 
